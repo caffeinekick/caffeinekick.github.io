@@ -7,7 +7,7 @@ title: Teaching
 
 <img src="teaching.jpg" style="width:100%; height:200px; object-fit:cover; object-position:center;">
 
-My teaching sits at the intersection of global health, politics, development, and research methods. At University College Dublin, I have taught across undergraduate and postgraduate modules in Politics and International Relations, Development Studies, and Health Systems.
+My teaching sits at the intersection of global health, politics and development. At University College Dublin, I have taught across undergraduate and postgraduate modules in Politics and International Relations, Development Studies, and Health Systems.
 
 A particular milestone in my teaching experience has been the opportunity to design and teach my own module, **Global Health, Politics and Development (POL36310)**. I was one of a small number of PhD candidates approved to develop and deliver an independent module within the School of Politics and International Relations.
 
