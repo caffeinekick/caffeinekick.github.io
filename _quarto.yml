@@ -1,0 +1,77 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Neha Parikh"
+  site-url: "https://neha-parikh.com"
+  description: "Neha, a dentist by training, public health thinker by practice, and a political scientist by curiosity - working to make health a right, not a privilege"
+  image: img/my_image.jpg
+  
+  favicon: img/np2.svg
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    
+    # your sub-pages
+    left:
+      - text: "About"
+        href: about/index.qmd
+      - text: "Research"
+        href: research/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+      - text: "Development Projects"
+        href: developmentprojects/index.qmd
+      - text: "Grants"
+        href: grants/index.qmd
+      - text: "Contact"
+        href: contact/index.qmd
+    
+    # your social media handles
+    right:
+      - icon: twitter
+        href: https://x.com/caffeinekicks
+      - icon: linkedin
+        href: https://www.linkedin.com/in/neha-parikh-90764024/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:parikh.neha@gmail.com"
+  
+  search:
+    location: navbar
+    type: textbox
+
+  page-footer:
+    left: |
+      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
+    right: |
+      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+
+
+project:
+  type: website
+  output-dir: docs
+
+  preview:
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+
+execute:
+  freeze: true
+
+
+format:
+  html:
+    fontsize: 1em
+    theme:
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: false
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

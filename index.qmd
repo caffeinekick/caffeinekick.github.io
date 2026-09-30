@@ -1,0 +1,39 @@
+---
+title: "Neha Parikh"
+
+about:
+  template: solana
+  id: about-block
+  image: "img/my_image.jpg"
+  image-shape: round
+  
+  links:
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=DD0sOP8AAAAJ&hl=en
+    - icon: globe
+      text: ORCID
+      href: https://orcid.org/0000-0002-9230-7127
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/neha-parikh-90764024/
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/caffeinekicks
+    - icon: envelope
+      text: Email
+      href: "mailto:parikh.neha@gmail.com"  
+---
+::: {#about-block}
+
+I’m Neha - trained as a dentist, shaped by years in public health practice, and now researching the politics of health systems and access to care.
+
+*Research Interests*
+----
+**Topical**: health systems, universal health coverage, civil society, policy reforms for equity, program design focused on sustainable health systems
+
+**Methodological**: qualitative and quantitative methods, population level cross sectional data, statistical analysis, in-depth interviews, focus groups, implementation research
+
+:::
+
+

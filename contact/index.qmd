@@ -1,0 +1,15 @@
+
+---
+title: Contact
+---
+
+<img src="rainbow.jpg" style="width:100%; height:220px; object-fit:cover; object-position:center 20%;">
+
+
+I am based at the **School of Politics and International Relations, University College Dublin**.
+
+Newman Building F302  
+Belfield, Dublin 4  
+Ireland  
+
+Please feel free to get in touch  [**here**](mailto:parikh.neha@gmail.com) if you would like to discuss potential projects, collaborations, research opportunities, or academic positions.
